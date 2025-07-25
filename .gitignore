@@ -1,0 +1,21 @@
+"" 
+# Laravel (backend)
+backend/vendor
+backend/node_modules
+backend/public/storage
+backend/storage/*.key
+backend/.env
+backend/*.log
+
+# SvelteKit (frontend)
+frontend/node_modules
+frontend/.svelte-kit
+frontend/build
+frontend/.env
+
+# Umum
+*.log
+*.sqlite
+.DS_Store
+.vscode
+.idea
